@@ -1,8 +1,0 @@
-{"namespace": "avro",
- "type": "record",
- "name": "canInfo",
- "fields": [
-     {"name": "canId", "type": "string"},
-     {"name": "canTime", "type": ["long", "null"]}
- ]
-}
